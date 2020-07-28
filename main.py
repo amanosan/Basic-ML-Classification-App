@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 st.title("Basic Machine Learning App.")
 
 st.write("""
-## Exploring different Classifiers.
+## Exploring different Classification Algorithms.
 """)
 
 dataset_name = st.sidebar.selectbox("Select a Dataset",
